@@ -1,7 +1,7 @@
 import React from 'react'
 
 // 导入 评论项 组件
-import CmtItem from '@/components/CmtItem'
+import CmtItem from '@/components/01.react-base/CmtItem'
 
 export default class CmtList extends React.Component {
   constructor() {

@@ -3,7 +3,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import CmtList from '@/components/CmtList'
+import CmtList from '@/components/01.react-base/CmtList'
 
 // 3. 调用 render 函数渲染
 ReactDOM.render(<div>

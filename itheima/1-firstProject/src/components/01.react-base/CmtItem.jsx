@@ -13,7 +13,7 @@ import React from 'react'
 // }
 
 // 第三层封装：抽离为单独的 样式表 模块
-import styles from '@/components/styles'
+import styles from '@/components/01.react-base/styles'
 
 export default function CmtItem(props) {
   return <div style={styles.item}>
